@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subhora.in/sitemap.xml
