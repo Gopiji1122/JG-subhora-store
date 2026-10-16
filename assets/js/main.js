@@ -78,6 +78,7 @@ function sendCartWhatsApp(){
 document.addEventListener('click',e=>{const b=e.target.closest('[data-add-to-cart]');if(b){add(b.dataset.addToCart);b.textContent='Added ✓';setTimeout(()=>{if(b.isConnected)b.textContent='Add to cart'},1300)}});
 
 document.addEventListener('click',e=>{
+ const searchLink=e.target.closest('[data-open-search]'); if(searchLink && window.matchMedia('(max-width: 760px)').matches){e.preventDefault();openSearchPanel();return;}
  const openCart=e.target.closest('[data-open-cart]'); if(openCart){e.preventDefault();openPanel('cart');return;}
  if(e.target.closest('[data-close-panels]')||e.target.closest('[data-close-search]')){closePanels();return;}
  if(e.target.closest('[data-drawer-qty]')){const b=e.target.closest('[data-drawer-qty]'),c=getCart(),id=b.dataset.id;c[id]=Math.max(0,(Number(c[id])||0)+Number(b.dataset.drawerQty));if(!c[id])delete c[id];saveCart(c);renderCartDrawer();return;}
