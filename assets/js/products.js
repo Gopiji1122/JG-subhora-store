@@ -1,12 +1,12 @@
 window.STORE_PRODUCTS = [
   {
     "id": "product-01",
-    "name": "Decorative Puja Thali",
+    "name": "Premium Red Mirror-Work Puja Thali – 12 Inch",
     "category": "Thali / Plate",
     "categorySlug": "thali-plate",
     "path": "products/product-01/",
-    "price": null,
-    "image": null
+    "price": 1000,
+    "image": "assets/images/products/thali/thali-set-1-transparent.webp"
   },
   {
     "id": "product-02",
