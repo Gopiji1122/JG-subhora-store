@@ -6,7 +6,7 @@ window.STORE_PRODUCTS = [
     "categorySlug": "thali-plate",
     "path": "products/product-01/",
     "price": 1000,
-    "image": "assets/images/products/thali/thali-set-1-transparent.webp"
+    "image": "assets/images/products/thali/thali-set-1-home-transparent.webp"
   },
   {
     "id": "product-02",
