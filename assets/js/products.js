@@ -59,9 +59,13 @@ window.STORE_PRODUCTS = [
     "category": "Puja Set",
     "categorySlug": null,
     "path": "products/product-01/",
-    "price": null,
-    "image": null,
-    "gallery": [],
+    "price": 1000,
+    "image": "assets/images/products/thali/thali-set-1-home-transparent.webp",
+    "gallery": [
+      {"src": "assets/images/products/thali/thali-set-1-home-transparent.webp", "alt": "Premium red mirror-work 12-inch puja thali"},
+      {"src": "assets/images/products/thali/thali-set-1-angle-02.webp", "alt": "Decorative puja thali angled detail"},
+      {"src": "assets/images/products/thali/thali-set-1-angle-03.webp", "alt": "Decorative puja thali close-up detail"}
+    ],
     "standalone": true
   },
   {
