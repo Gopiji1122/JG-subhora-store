@@ -2,77 +2,68 @@ window.STORE_PRODUCTS = [
   {
     "id": "product-01",
     "name": "Decorative Puja Thali",
-    "category": "Thali / Plate",
-    "categorySlug": "thali-plate",
     "path": "products/product-01/",
     "price": 1000,
     "image": "assets/images/products/thali/thali-set-1-lifestyle.webp",
     "gallery": [
-      {"src":"assets/images/products/thali/thali-set-1-lifestyle.webp","alt":"Decorative red puja thali set, main product view"},
-      {"src":"assets/images/products/thali/thali-set-1-angle-02.webp","alt":"Decorative puja thali, second angle"},
-      {"src":"assets/images/products/thali/thali-set-1-angle-03.webp","alt":"Decorative puja thali, third angle"}
+      {
+        "src": "assets/images/products/thali/thali-set-1-lifestyle.webp",
+        "alt": "Decorative red puja thali set, main product view"
+      },
+      {
+        "src": "assets/images/products/thali/thali-set-1-angle-02.webp",
+        "alt": "Decorative puja thali, second angle"
+      },
+      {
+        "src": "assets/images/products/thali/thali-set-1-angle-03.webp",
+        "alt": "Decorative puja thali, third angle"
+      }
     ]
   },
   {
     "id": "product-02",
-    "name": "Decorative Katori",
-    "category": "Katori",
-    "categorySlug": "katori",
+    "name": "Decorative Katori (2 Pieces)",
     "path": "products/product-02/",
-    "price": null,
-    "image": null,
-    "gallery": []
+    "price": 100,
+    "image": "assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp",
+    "gallery": [
+      {
+        "src": "assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp",
+        "alt": "Pair of red stainless steel decorative katoris with premium stones, pearls and gold-tone embellishments"
+      }
+    ],
+    "keywords": "katori bowl puja decorative red",
+    "listed": true
   },
   {
     "id": "product-03",
     "name": "Chhota Kalash / Lota",
-    "category": "Chhota Kalash / Lota",
-    "categorySlug": "chhota-kalash-lota",
     "path": "products/product-03/",
     "price": 200,
-    "image": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp",
-    "gallery": [{"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp","alt":"Red decorative small kalash and lota with pearl, mirror and green stone embellishments"},{"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp","alt":"Decorative small kalash and lota displayed on a festive cream and gold background"}]
+    "image": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp",
+    "gallery": [
+      {
+        "src": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp",
+        "alt": "Red decorative small kalash and lota with pearl, mirror and green stone embellishments"
+      }
+    ]
   },
   {
     "id": "product-04",
     "name": "Big Kalash",
-    "category": "Big Kalash",
-    "categorySlug": "big-kalash",
     "path": "products/product-04/",
     "price": 1500,
-    "image": "assets/images/products/big-kalash/big-kalash-home-transparent.webp",
-    "gallery": [{"src":"assets/images/products/big-kalash/big-kalash-lifestyle.webp","alt":"Ornate red Big Kalash decorated with mirror work, pearls, gems and gold trim on a festive cream and gold background"},{"src":"assets/images/products/big-kalash/big-kalash-home-transparent.webp","alt":"Transparent product image of a red decorative Big Kalash with pearl and mirror embellishments"}]
-  },
-  {
-    "id": "product-05",
-    "name": "Decorative Chhalni",
-    "category": "Chhalni",
-    "categorySlug": "chhalni",
-    "path": "products/product-05/",
-    "price": null,
-    "image": null,
-    "gallery": []
-  },
-  {
-    "id": "thali-set-1",
-    "name": "Thali Set 1",
-    "category": "Puja Set",
-    "categorySlug": null,
-    "path": "products/product-01/",
-    "price": 1000,
-    "image": "assets/images/products/thali/thali-set-1-home-transparent.webp",
+    "image": "assets/images/products/big-kalash/big-kalash-lifestyle.webp",
     "gallery": [
-      {"src": "assets/images/products/thali/thali-set-1-home-transparent.webp", "alt": "Premium red mirror-work 12-inch puja thali"},
-      {"src": "assets/images/products/thali/thali-set-1-angle-02.webp", "alt": "Decorative puja thali angled detail"},
-      {"src": "assets/images/products/thali/thali-set-1-angle-03.webp", "alt": "Decorative puja thali close-up detail"}
-    ],
-    "standalone": true
+      {
+        "src": "assets/images/products/big-kalash/big-kalash-lifestyle.webp",
+        "alt": "Ornate red Big Kalash decorated with mirror work, pearls, gems and gold trim on a festive cream and gold background"
+      }
+    ]
   },
   {
     "id": "wedding-combo-1",
     "name": "Wedding Combo 1",
-    "category": "Wedding & Puja Set",
-    "categorySlug": null,
     "path": "products/wedding-combo-1/",
     "price": 1500,
     "image": "assets/images/products/wedding-combo-1/wedding-combo-1-main.webp",
@@ -91,11 +82,9 @@ window.STORE_PRODUCTS = [
   {
     "id": "karwachauth-special",
     "name": "Karwachauth Special",
-    "category": "Karwa Chauth Special Set",
-    "categorySlug": null,
     "path": "products/karwachauth-special/",
     "price": 1800,
-    "image": "assets/images/products/karwachauth-special/karwachauth-special-home-transparent.webp",
+    "image": "assets/images/products/karwachauth-special/karwachauth-special-main.webp",
     "gallery": [
       {
         "src": "assets/images/products/karwachauth-special/karwachauth-special-main.webp",
