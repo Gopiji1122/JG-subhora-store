@@ -25,13 +25,16 @@ window.STORE_PRODUCTS = [
   },
   {
     "id": "product-03",
-    "name": "Chhota Kalash / Lota",
+    "name": "Decorative Chhota Kalash / Lota",
     "category": "Chhota Kalash / Lota",
     "categorySlug": "chhota-kalash-lota",
     "path": "products/product-03/",
     "price": null,
-    "image": null,
-    "gallery": []
+    "image": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp",
+    "gallery": [
+      {"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp","alt":"Decorative red chhota kalash or lota with embellished lid and stainless-steel interior, photographed on a festive cream and gold background"},
+      {"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp","alt":"Red decorative chhota kalash or lota with ornate pearl, stone and gold-tone detailing on a transparent background"}
+    ]
   },
   {
     "id": "product-04",
