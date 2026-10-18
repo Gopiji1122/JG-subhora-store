@@ -25,16 +25,13 @@ window.STORE_PRODUCTS = [
   },
   {
     "id": "product-03",
-    "name": "Decorative Chhota Kalash / Lota",
+    "name": "Chhota Kalash / Lota",
     "category": "Chhota Kalash / Lota",
     "categorySlug": "chhota-kalash-lota",
     "path": "products/product-03/",
-    "price": null,
+    "price": 200,
     "image": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp",
-    "gallery": [
-      {"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp","alt":"Decorative red chhota kalash or lota with embellished lid and stainless-steel interior, photographed on a festive cream and gold background"},
-      {"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp","alt":"Red decorative chhota kalash or lota with ornate pearl, stone and gold-tone detailing on a transparent background"}
-    ]
+    "gallery": [{"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-home-transparent.webp","alt":"Red decorative small kalash and lota with pearl, mirror and green stone embellishments"},{"src":"assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp","alt":"Decorative small kalash and lota displayed on a festive cream and gold background"}]
   },
   {
     "id": "product-04",
@@ -42,9 +39,9 @@ window.STORE_PRODUCTS = [
     "category": "Big Kalash",
     "categorySlug": "big-kalash",
     "path": "products/product-04/",
-    "price": null,
-    "image": null,
-    "gallery": []
+    "price": 1500,
+    "image": "assets/images/products/big-kalash/big-kalash-home-transparent.webp",
+    "gallery": [{"src":"assets/images/products/big-kalash/big-kalash-lifestyle.webp","alt":"Ornate red Big Kalash decorated with mirror work, pearls, gems and gold trim on a festive cream and gold background"},{"src":"assets/images/products/big-kalash/big-kalash-home-transparent.webp","alt":"Transparent product image of a red decorative Big Kalash with pearl and mirror embellishments"}]
   },
   {
     "id": "product-05",
