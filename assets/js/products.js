@@ -5,7 +5,7 @@ window.STORE_PRODUCTS = [
     "category": "Thali / Plate",
     "categorySlug": "thali-plate",
     "path": "products/product-01/",
-    "price": null,
+    "price": 1000,
     "image": "assets/images/products/thali/thali-set-1-lifestyle.webp",
     "gallery": [
       {"src":"assets/images/products/thali/thali-set-1-lifestyle.webp","alt":"Decorative red puja thali set, main product view"},
@@ -82,16 +82,32 @@ window.STORE_PRODUCTS = [
         "alt": "Wedding Combo 1 complete red decorated puja set"
       },
       {
-        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-02.webp",
-        "alt": "Wedding Combo 1 decorated katoris detail"
-      },
-      {
-        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-03.webp",
-        "alt": "Wedding Combo 1 complete thali, kalash, katoris and diya"
-      },
-      {
         "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-04.webp",
         "alt": "Wedding Combo 1 red and gold puja set alternate view"
+      }
+    ],
+    "standalone": true
+  },
+  {
+    "id": "karwachauth-special",
+    "name": "Karwachauth Special",
+    "category": "Karwa Chauth Special Set",
+    "categorySlug": null,
+    "path": "products/karwachauth-special/",
+    "price": 1800,
+    "image": "assets/images/products/karwachauth-special/karwachauth-special-home-transparent.webp",
+    "gallery": [
+      {
+        "src": "assets/images/products/karwachauth-special/karwachauth-special-main.webp",
+        "alt": "Karwachauth Special premium red thali set with couple photo"
+      },
+      {
+        "src": "assets/images/products/karwachauth-special/karwachauth-special-accessories.webp",
+        "alt": "All six accessories included in Karwachauth Special set"
+      },
+      {
+        "src": "assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp",
+        "alt": "Close-up of red decorated katoris from Karwachauth Special set"
       }
     ],
     "standalone": true
