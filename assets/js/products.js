@@ -6,8 +6,12 @@ window.STORE_PRODUCTS = [
     "categorySlug": "thali-plate",
     "path": "products/product-01/",
     "price": null,
-    "image": null,
-    "gallery": []
+    "image": "assets/images/products/thali/thali-set-1-lifestyle.webp",
+    "gallery": [
+      {"src":"assets/images/products/thali/thali-set-1-lifestyle.webp","alt":"Decorative red puja thali set, main product view"},
+      {"src":"assets/images/products/thali/thali-set-1-angle-02.webp","alt":"Decorative puja thali, second angle"},
+      {"src":"assets/images/products/thali/thali-set-1-angle-03.webp","alt":"Decorative puja thali, third angle"}
+    ]
   },
   {
     "id": "product-02",
@@ -54,7 +58,7 @@ window.STORE_PRODUCTS = [
     "name": "Thali Set 1",
     "category": "Puja Set",
     "categorySlug": null,
-    "path": "products/thali-set-1/",
+    "path": "products/product-01/",
     "price": null,
     "image": null,
     "gallery": [],

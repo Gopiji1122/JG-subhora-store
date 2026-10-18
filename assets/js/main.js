@@ -88,5 +88,23 @@ document.addEventListener('click',e=>{
 });
 $('#mobile-search-panel form')?.addEventListener('submit',e=>{const input=$('#mobile-search-query');if(!input?.value.trim()){e.preventDefault();input?.focus();return;}e.preventDefault();const url=new URL(base+'search/',location.href);url.searchParams.set('q',input.value.trim());location.href=url.href;});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('panel-open'))closePanels();});
-setupTheme();setupHeader();$$('.drawer a').forEach(a=>a.addEventListener('click',()=>closePanels(false)));updateCount();updatePrices();renderCartIfPresent();renderCartDrawer();renderSearch();
+function setupProductGallery(){
+ $$('.product-gallery[data-product-gallery]').forEach(g=>{
+  const id=g.dataset.productId || document.body.dataset.productId || '';
+  const product=products.find(p=>p.id===id);
+  const list=(product?.gallery||[]).filter(x=>x&&x.src);
+  const img=g.querySelector('[data-gallery-image]'), placeholder=g.querySelector('[data-gallery-placeholder]');
+  const prev=g.querySelector('[data-gallery-prev]'), next=g.querySelector('[data-gallery-next]'), counter=g.querySelector('[data-gallery-counter]');
+  if(!img||!list.length){if(placeholder)placeholder.hidden=false;return;}
+  let index=0, startX=0;
+  const assetUrl=src=>/^(https?:|data:|\/)/i.test(src)?src:(base+src.replace(/^\.\//,''));
+  const show=(n)=>{index=(n+list.length)%list.length;const item=list[index];img.hidden=false;img.alt=item.alt||product.name;img.src=assetUrl(item.src);if(placeholder)placeholder.hidden=true;if(prev)prev.hidden=list.length<2;if(next)next.hidden=list.length<2;if(counter){counter.hidden=list.length<2;counter.textContent=(index+1)+' / '+list.length;}};
+  img.addEventListener('error',()=>{img.hidden=true;if(placeholder){placeholder.textContent='Product photo unavailable';placeholder.hidden=false;}});
+  prev?.addEventListener('click',()=>show(index-1));next?.addEventListener('click',()=>show(index+1));
+  g.addEventListener('touchstart',e=>{startX=e.changedTouches[0].clientX},{passive:true});
+  g.addEventListener('touchend',e=>{const dx=e.changedTouches[0].clientX-startX;if(Math.abs(dx)>45)show(index+(dx<0?1:-1));},{passive:true});
+  show(0);
+ });
+}
+setupProductGallery();setupTheme();setupHeader();$$('.drawer a').forEach(a=>a.addEventListener('click',()=>closePanels(false)));updateCount();updatePrices();renderCartIfPresent();renderCartDrawer();renderSearch();
 })();
