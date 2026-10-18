@@ -1,12 +1,13 @@
 window.STORE_PRODUCTS = [
   {
     "id": "product-01",
-    "name": "Premium Red Mirror-Work Puja Thali – 12 Inch",
+    "name": "Decorative Puja Thali",
     "category": "Thali / Plate",
     "categorySlug": "thali-plate",
     "path": "products/product-01/",
-    "price": 1000,
-    "image": "assets/images/products/thali/thali-set-1-home-transparent.webp"
+    "price": null,
+    "image": null,
+    "gallery": []
   },
   {
     "id": "product-02",
@@ -15,7 +16,8 @@ window.STORE_PRODUCTS = [
     "categorySlug": "katori",
     "path": "products/product-02/",
     "price": null,
-    "image": null
+    "image": null,
+    "gallery": []
   },
   {
     "id": "product-03",
@@ -24,7 +26,8 @@ window.STORE_PRODUCTS = [
     "categorySlug": "chhota-kalash-lota",
     "path": "products/product-03/",
     "price": null,
-    "image": null
+    "image": null,
+    "gallery": []
   },
   {
     "id": "product-04",
@@ -33,7 +36,8 @@ window.STORE_PRODUCTS = [
     "categorySlug": "big-kalash",
     "path": "products/product-04/",
     "price": null,
-    "image": null
+    "image": null,
+    "gallery": []
   },
   {
     "id": "product-05",
@@ -42,7 +46,47 @@ window.STORE_PRODUCTS = [
     "categorySlug": "chhalni",
     "path": "products/product-05/",
     "price": null,
-    "image": null
+    "image": null,
+    "gallery": []
+  },
+  {
+    "id": "thali-set-1",
+    "name": "Thali Set 1",
+    "category": "Puja Set",
+    "categorySlug": null,
+    "path": "products/thali-set-1/",
+    "price": null,
+    "image": null,
+    "gallery": [],
+    "standalone": true
+  },
+  {
+    "id": "wedding-combo-1",
+    "name": "Wedding Combo 1",
+    "category": "Wedding & Puja Set",
+    "categorySlug": null,
+    "path": "products/wedding-combo-1/",
+    "price": 1500,
+    "image": "assets/images/products/wedding-combo-1/wedding-combo-1-main.webp",
+    "gallery": [
+      {
+        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-main.webp",
+        "alt": "Wedding Combo 1 complete red decorated puja set"
+      },
+      {
+        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-02.webp",
+        "alt": "Wedding Combo 1 decorated katoris detail"
+      },
+      {
+        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-03.webp",
+        "alt": "Wedding Combo 1 complete thali, kalash, katoris and diya"
+      },
+      {
+        "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-04.webp",
+        "alt": "Wedding Combo 1 red and gold puja set alternate view"
+      }
+    ],
+    "standalone": true
   }
 ];
 window.STORE_WHATSAPP = "919216289916";
