@@ -591,3 +591,7 @@ body.panel-open{overflow:hidden}
 .home-search-results{scroll-margin-top:20px}
 .home-search-results[hidden]{display:none}
 @media(max-width:760px){.search-icon-link{width:42px;height:42px;flex-basis:42px}.mobile-menu-toggle{min-width:42px;min-height:42px;justify-content:center;padding:8px}.mobile-menu-toggle .menu-label{display:none}.header .inner{gap:8px}.brand{margin-right:auto}}
+/* Resin protection label on Karwachauth main product photos */
+.resin-protection-badge{position:absolute;z-index:3;left:clamp(12px,2.2vw,22px);bottom:clamp(12px,2.2vw,22px);display:inline-flex;align-items:center;justify-content:center;max-width:calc(100% - 28px);padding:9px 13px;border:1px solid #fff2d2;border-radius:10px;background:rgba(83,27,35,.94);color:#fff8e9;font-size:clamp(.78rem,1.2vw,.96rem);font-weight:800;letter-spacing:.025em;line-height:1.25;box-shadow:0 4px 14px rgba(35,16,16,.22);pointer-events:none}
+@media(max-width:480px){.resin-protection-badge{left:12px;bottom:12px;padding:8px 10px;font-size:.78rem}}
+
