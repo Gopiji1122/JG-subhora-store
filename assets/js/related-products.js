@@ -7,7 +7,8 @@ const groups={
  'product-03':['product-04','wedding-combo-1'],
  'product-04':['product-03','wedding-combo-1'],
  'wedding-combo-1':['product-01','product-04'],
- 'karwachauth-special':['product-01','product-04']
+ 'karwachauth-special':['karwachauth-special-1','product-01'],
+ 'karwachauth-special-1':['karwachauth-special','product-01']
 };
 const money=n=>new Intl.NumberFormat('en-IN',{style:'currency',currency:'INR',maximumFractionDigits:0}).format(n);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

@@ -100,6 +100,22 @@ window.STORE_PRODUCTS = [
       }
     ],
     "standalone": true
+  }  ,{
+    "id": "karwachauth-special-1",
+    "name": "Karwachauth Special 1",
+    "path": "products/karwachauth-special-1/",
+    "price": 1800,
+    "image": "assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp",
+    "gallery": [
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp", "alt": "Karwachauth Special 1 red decorative thali with personalized couple photo"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-thali-detail.webp", "alt": "Close-up of Karwachauth Special 1 decorative thali"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-kalash-detail.webp", "alt": "Red decorated kalash and puja accessory detail"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-set-detail.webp", "alt": "Karwachauth Special 1 coordinated puja set detail"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-accessories.webp", "alt": "Additional view of Karwachauth Special 1 puja accessories"}
+    ],
+    "keywords": "karwachauth special 1 karwa chauth couple photo red thali puja set",
+    "standalone": true
   }
+
 ];
 window.STORE_WHATSAPP = "919216289916";
