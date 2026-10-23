@@ -2,7 +2,7 @@ window.STORE_PRODUCTS = [
   {
     "id": "product-01",
     "name": "Decorative Puja Thali",
-    "path": "products/product-01/",
+    "path": "products/decorative-pooja-thali/",
     "price": 1000,
     "image": "assets/images/products/thali/thali-set-1-lifestyle.webp",
     "gallery": [
@@ -23,7 +23,7 @@ window.STORE_PRODUCTS = [
   {
     "id": "product-02",
     "name": "Decorative Katori (2 Pieces)",
-    "path": "products/product-02/",
+    "path": "products/decorative-katori-2-pieces/",
     "price": 100,
     "image": "assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp",
     "gallery": [
@@ -37,83 +37,83 @@ window.STORE_PRODUCTS = [
   },
   {
     "id": "product-03",
-    "name": "Chhota Kalash / Lota",
-    "path": "products/product-03/",
+    "name": "Decorated Kalash for Puja",
+    "path": "products/decorated-kalash-for-puja/",
     "price": 200,
     "image": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp",
     "gallery": [
       {
         "src": "assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp",
-        "alt": "Red decorative small kalash and lota with pearl, mirror and green stone embellishments"
+        "alt": "Decorated kalash for puja with pearl, mirror and green stone embellishments"
       }
     ]
   },
   {
     "id": "product-04",
-    "name": "Big Kalash",
-    "path": "products/product-04/",
+    "name": "Decorated Kalash for Wedding",
+    "path": "products/decorated-kalash-for-wedding/",
     "price": 1500,
     "image": "assets/images/products/big-kalash/big-kalash-lifestyle.webp",
     "gallery": [
       {
         "src": "assets/images/products/big-kalash/big-kalash-lifestyle.webp",
-        "alt": "Ornate red Big Kalash decorated with mirror work, pearls, gems and gold trim on a festive cream and gold background"
+        "alt": "Decorated kalash for wedding with mirror work, pearls, gems and gold trim"
       }
     ]
   },
   {
     "id": "wedding-combo-1",
-    "name": "Wedding Combo 1",
-    "path": "products/wedding-combo-1/",
+    "name": "Decorative Thali Set for Wedding",
+    "path": "products/decorative-thali-set-for-wedding/",
     "price": 1500,
     "image": "assets/images/products/wedding-combo-1/wedding-combo-1-main.webp",
     "gallery": [
       {
         "src": "assets/images/products/wedding-combo-1/wedding-combo-1-main.webp",
-        "alt": "Wedding Combo 1 complete red decorated puja set"
+        "alt": "Decorative thali set for wedding with matching puja accessories"
       },
       {
         "src": "assets/images/products/wedding-combo-1/wedding-combo-1-detail-04.webp",
-        "alt": "Wedding Combo 1 red and gold puja set alternate view"
+        "alt": "Red and gold decorative thali set for wedding, alternate view"
       }
     ],
     "standalone": true
   },
   {
     "id": "karwachauth-special",
-    "name": "Karwachauth Special",
-    "path": "products/karwachauth-special/",
+    "name": "Karwachauth Thali Set",
+    "path": "products/karwachauth-thali-set/",
     "price": 1800,
     "image": "assets/images/products/karwachauth-special/karwachauth-special-main.webp",
     "gallery": [
       {
         "src": "assets/images/products/karwachauth-special/karwachauth-special-main.webp",
-        "alt": "Karwachauth Special premium red thali set with couple photo"
+        "alt": "Karwachauth thali set with red decorative finish and matching puja accessories"
       },
       {
         "src": "assets/images/products/karwachauth-special/karwachauth-special-accessories.webp",
-        "alt": "All six accessories included in Karwachauth Special set"
+        "alt": "All six accessories included in Karwachauth Thali Set set"
       },
       {
         "src": "assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp",
-        "alt": "Close-up of red decorated katoris from Karwachauth Special set"
+        "alt": "Close-up of red decorated katoris from Karwachauth Thali Set set"
       }
     ],
     "standalone": true
   }  ,{
     "id": "karwachauth-special-1",
-    "name": "Karwachauth Special 1",
-    "path": "products/karwachauth-special-1/",
+    "name": "Karwachauth Couple Photo Thali Set",
+    "path": "products/karwachauth-couple-photo-thali-set/",
     "price": 1800,
     "image": "assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp",
     "gallery": [
-      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp", "alt": "Karwachauth Special 1 red decorative thali with personalized couple photo"},
-      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-thali-detail.webp", "alt": "Close-up of Karwachauth Special 1 decorative thali"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp", "alt": "Karwachauth couple photo thali set with personalized photo area"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-thali-detail.webp", "alt": "Close-up of Karwachauth couple photo thali set"},
       {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-kalash-detail.webp", "alt": "Red decorated kalash and puja accessory detail"},
-      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-set-detail.webp", "alt": "Karwachauth Special 1 coordinated puja set detail"},
-      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-accessories.webp", "alt": "Additional view of Karwachauth Special 1 puja accessories"}
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-set-detail.webp", "alt": "Karwachauth Couple Photo Thali Set coordinated puja set detail"},
+      {"src": "assets/images/products/karwachauth-special-1/karwachauth-special-1-accessories.webp", "alt": "Additional view of Karwachauth Couple Photo Thali Set puja accessories"}
     ],
-    "keywords": "karwachauth special 1 karwa chauth couple photo red thali puja set",
+    "keywords": "karwachauth couple photo thali set karwa chauth thali items decorated thali set for wedding pooja thali decoration",
     "standalone": true
   }
 
