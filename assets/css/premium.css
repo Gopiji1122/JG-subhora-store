@@ -1,0 +1,65 @@
+/* Subhora premium layer */
+:root{--gold:#c9973f;--gold-soft:#f3e3c3;--ease:cubic-bezier(.2,.7,.2,1)}
+html{-webkit-text-size-adjust:100%}
+body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;background:radial-gradient(1100px 480px at 100% -8%,#f7e8d6,transparent 62%),radial-gradient(800px 420px at -10% 30%,#fbefe3,transparent 60%),var(--bg)}
+::selection{background:var(--accent);color:#fff}
+*{scrollbar-width:thin;scrollbar-color:var(--accent) var(--soft)}
+h1,h2,h3{letter-spacing:-.02em}
+.header{box-shadow:0 1px 0 var(--line);transition:box-shadow .3s,background .3s}
+.header.scrolled{box-shadow:0 10px 30px #2b1b1214;background:color-mix(in srgb,var(--bg) 86%,transparent)}
+.btn{position:relative;overflow:hidden;background:linear-gradient(135deg,#a22a3a,#74202a);border-color:transparent;box-shadow:0 8px 20px #8f243138;transition:transform .3s var(--ease),box-shadow .3s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 14px 28px #8f243148;background:linear-gradient(135deg,#a22a3a,#74202a)}
+.btn:after{content:"";position:absolute;top:0;left:-70%;width:45%;height:100%;background:linear-gradient(100deg,transparent,#ffffff55,transparent);transform:skewX(-20deg);transition:left .7s var(--ease)}
+.btn:hover:after{left:130%}
+.btn-outline,.btn-light{box-shadow:none}
+.btn-outline{background:transparent;border-color:var(--line);color:var(--accent)}
+.btn-light{background:#fff}
+.btn-whatsapp,.buy-now{background:linear-gradient(135deg,#1c9a60,#127544)}
+.heading h2{position:relative}
+.heading h2:after{content:"";display:block;width:54px;height:3px;margin-top:10px;border-radius:3px;background:linear-gradient(90deg,var(--accent),var(--gold))}
+.card{border-radius:22px;border-color:#eadfd2;background:linear-gradient(#fff,#fffaf4);transition:transform .45s var(--ease),box-shadow .45s,border-color .3s}
+.card:hover{transform:translateY(-8px);box-shadow:0 26px 48px #2b1b1220;border-color:#dcc3a6}
+.card .frame{background:radial-gradient(circle at 50% 40%,#fffaf0,#f1e4d2);overflow:hidden}
+.card .frame img{transition:transform .9s var(--ease)}
+.card:hover .frame img{transform:scale(1.08) rotate(-.6deg)}
+.price{color:var(--accent);font-family:Georgia,serif;font-size:1.08rem}
+.hero-banner{border-radius:26px;box-shadow:0 30px 70px #2b1b1226}
+.hero-banner img{animation:pmZoom 14s ease-out both}
+.hero h1,.hero-banner h1{animation:pmUp 1s var(--ease) both}
+.hero p,.hero-banner p{animation:pmUp 1s var(--ease) .15s both}
+.hero .actions,.hero-banner .actions{animation:pmUp 1s var(--ease) .3s both}
+@keyframes pmZoom{from{transform:scale(1.08)}to{transform:scale(1)}}
+@keyframes pmUp{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:none}}
+.brand-story,.order-strip{border-radius:26px}
+.order-strip{background:linear-gradient(135deg,#8f2431,#5a1520);box-shadow:0 24px 50px #5a152044}
+.soft{background:linear-gradient(180deg,var(--soft),#fbf5ec)}
+.footer{background:linear-gradient(180deg,#2a1d1a,#1c1311)}
+.footer .links a{transition:color .25s,padding-left .25s}.footer .links a:hover{color:#fff;padding-left:6px}
+.floating-whatsapp{animation:pmPulse 2.6s infinite;transition:transform .3s}
+.floating-whatsapp:hover{transform:scale(1.07)}
+@keyframes pmPulse{0%{box-shadow:0 8px 25px #0002,0 0 0 0 #1c9a6066}70%{box-shadow:0 8px 25px #0002,0 0 0 16px #1c9a6000}100%{box-shadow:0 8px 25px #0002,0 0 0 0 #1c9a6000}}
+.pm-progress{position:fixed;left:0;top:0;height:3px;width:100%;z-index:70;transform-origin:0 50%;transform:scaleX(0);background:linear-gradient(90deg,var(--accent),var(--gold));pointer-events:none}
+.pm-top{position:fixed;right:18px;bottom:76px;z-index:8;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:#fffffff0;color:var(--accent);font-size:1.2rem;box-shadow:var(--shadow);opacity:0;transform:translateY(12px);pointer-events:none;transition:.35s var(--ease)}
+.pm-top.on{opacity:1;transform:none;pointer-events:auto}
+.js .rv{opacity:0;transform:translateY(28px) scale(.985);transition:opacity .9s var(--ease),transform .9s var(--ease);transition-delay:var(--d,0s)}
+.js .rv.in{opacity:1;transform:none}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:3px;border-radius:8px}
+@media(max-width:760px){.card:hover{transform:none}.pm-top{right:12px;bottom:70px}}
+@media(prefers-reduced-motion:reduce){.hero-banner img,.hero h1,.hero p,.hero .actions,.floating-whatsapp{animation:none!important}.js .rv{opacity:1;transform:none;transition:none}}
+/* professional typography */
+:root{--serif:"Playfair Display",Georgia,serif;--sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+body,button,input{font-family:var(--sans)}
+h1,h2,h3,h4,.brand,.brand-name,.price,.footer h3,.story-mark,.art-label strong,.empty-state h2,.error-mark{font-family:var(--serif)!important}
+h1,.hero h1{letter-spacing:-.025em}
+.nav a,.btn,.eyebrow,.announcement{font-family:var(--sans);letter-spacing:.02em}
+.eyebrow{letter-spacing:.16em}
+/* extra motion */
+.hero-banner{--py:0px}
+.hero-banner img{will-change:transform;translate:0 var(--py)}
+.heading h2:after{width:0;transition:width 1s var(--ease) .3s}
+.heading.in h2:after,.heading:not(.rv) h2:after{width:54px}
+.trust-item,.trust>*{transition:transform .4s var(--ease),box-shadow .4s}
+.trust-item:hover,.trust>*:hover{transform:translateY(-5px);box-shadow:var(--shadow)}
+.order-strip{background-size:200% 200%;animation:pmGrad 10s ease infinite}
+@keyframes pmGrad{0%,100%{background-position:0 50%}50%{background-position:100% 50%}}
+@media(prefers-reduced-motion:reduce){.order-strip{animation:none!important}.hero-banner img{translate:none}}
