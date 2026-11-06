@@ -1,27 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://subhora.in/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/decorative-pooja-thali/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/decorative-katori-2-pieces/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/decorated-kalash-for-puja/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/decorated-kalash-for-wedding/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/decorative-thali-set-for-wedding/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/karwachauth-thali-set/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/products/karwachauth-couple-photo-thali-set/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/karwa-chauth-thali-decoration-ideas/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/how-to-choose-pooja-thali-for-wedding/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/reviews/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/about/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/contact/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/shipping-returns/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/privacy-policy/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/terms-conditions/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/kalash-decoration-ideas-for-pooja-diwali-navratri/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/decorated-kalash-for-wedding-and-marriage/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/pooja-thali-decoration-ideas-and-aarti-thali-designs/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/karwa-chauth-thali-items-list-lota-chhalni/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/diwali-diya-decoration-ideas-for-puja-and-home/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://subhora.in/blog/rakhi-thali-decoration-ideas-for-raksha-bandhan/</loc><lastmod>2026-10-23</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://subhora.in/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/hero-banner.webp</image:loc>
+      <image:title>Handcrafted Decorative Pooja Thali and Festive Essentials Subhora</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/decorative-pooja-thali/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/thali/thali-set-1-lifestyle.webp</image:loc>
+      <image:title>Handcrafted 12-Inch Decorative Pooja Thali Stainless Steel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/decorative-katori-2-pieces/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp</image:loc>
+      <image:title>Red Stainless Steel Decorative Katori Set Pair for Roli Chawal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/decorated-kalash-for-puja/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp</image:loc>
+      <image:title>Small Decorated Kalash for Puja and Griha Pravesh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/decorated-kalash-for-wedding/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/big-kalash/big-kalash-lifestyle.webp</image:loc>
+      <image:title>Large Decorated Kalash for Wedding and Mandap Ceremony</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/decorative-thali-set-for-wedding/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/wedding-combo-1/wedding-combo-1-main.webp</image:loc>
+      <image:title>Decorative Wedding Pooja Thali Combo Set with Kalash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/karwachauth-thali-set/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/karwachauth-special/karwachauth-special-main.webp</image:loc>
+      <image:title>Designer Karwa Chauth Thali Set with Lota and Chhalni</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://subhora.in/products/karwachauth-couple-photo-thali-set/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image>
+      <image:loc>https://subhora.in/assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp</image:loc>
+      <image:title>Customized Couple Photo Karwa Chauth Thali Set</image:title>
+    </image:image>
+  </url>
+  <url><loc>https://subhora.in/blog/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/karwa-chauth-thali-decoration-ideas/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/how-to-choose-pooja-thali-for-wedding/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/kalash-decoration-ideas-for-pooja-diwali-navratri/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/decorated-kalash-for-wedding-and-marriage/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/pooja-thali-decoration-ideas-and-aarti-thali-designs/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/karwa-chauth-thali-items-list-lota-chhalni/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/diwali-diya-decoration-ideas-for-puja-and-home/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/blog/rakhi-thali-decoration-ideas-for-raksha-bandhan/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/reviews/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/about/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/contact/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/shipping-returns/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/privacy-policy/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://subhora.in/terms-conditions/</loc><lastmod>2026-11-06</lastmod></url>
 </urlset>

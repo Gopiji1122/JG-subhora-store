@@ -862,3 +862,5 @@ body.product-thali-page .gallery-lightbox img{cursor:default}
 .product-review-stars b{color:var(--muted,#71665f);font-size:.78rem;letter-spacing:0;font-weight:600}
 .product-customer-review figcaption{margin-top:12px;padding-top:10px;border-top:1px solid var(--line,#e8e0d8)}
 @media(max-width:760px){.product-customer-review-grid{grid-template-columns:1fr;gap:12px}.product-customer-review{padding:14px}}
+
+.mobile-menu-social-title{font:700 1.05rem Georgia,serif;margin:0 0 12px;color:var(--accent);}
