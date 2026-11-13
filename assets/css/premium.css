@@ -63,3 +63,320 @@ h1,.hero h1{letter-spacing:-.025em}
 .order-strip{background-size:200% 200%;animation:pmGrad 10s ease infinite}
 @keyframes pmGrad{0%,100%{background-position:0 50%}50%{background-position:100% 50%}}
 @media(prefers-reduced-motion:reduce){.order-strip{animation:none!important}.hero-banner img{translate:none}}
+
+/* === Minimalist Home Typography, Price Pill Badge & View-All Fix === */
+.product-card[hidden],
+.explore-all-wrap[hidden] {
+  display: none !important;
+}
+
+body.home-page {
+  --sans: "Plus Jakarta Sans", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family: var(--sans) !important;
+  letter-spacing: -0.01em;
+}
+
+body.home-page h1,
+body.home-page h2,
+body.home-page h3,
+body.home-page h4,
+body.home-page .brand,
+body.home-page .brand-name,
+body.home-page .hero h1,
+body.home-page .hero-banner h1,
+body.home-page .heading h2,
+body.home-page .home-discovery h2,
+body.home-page .home-value-grid h3,
+body.home-page .product-card .info h3,
+body.home-page .price,
+body.home-page .footer h3 {
+  font-family: var(--sans) !important;
+}
+
+body.home-page .heading h2,
+body.home-page .home-discovery-head h2 {
+  font-weight: 700 !important;
+  letter-spacing: -0.025em !important;
+}
+
+body.home-page .product-card .info {
+  padding: 12px 2px 8px !important;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+body.home-page .product-card .info h3 {
+  font-family: var(--sans) !important;
+  font-size: clamp(0.92rem, 1.08vw, 1.02rem) !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  letter-spacing: -0.012em !important;
+  color: #1f1a17 !important;
+  margin: 0 !important;
+}
+
+body.home-page .product-card .price {
+  display: flex !important;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 8px;
+  margin: 4px 0 2px !important;
+  min-height: auto !important;
+  font-family: var(--sans) !important;
+}
+
+body.home-page .product-card .price-pill,
+.price-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: #f6ede4;
+  border: 1px solid #e6d5c3;
+  color: #7c1d28;
+  font-family: "Plus Jakarta Sans", "Inter", system-ui, sans-serif !important;
+  font-size: 0.94rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  box-shadow: 0 1px 2px rgba(43, 27, 18, 0.04);
+}
+
+body.home-page .product-card .small-muted {
+  font-family: var(--sans) !important;
+  font-size: 0.74rem !important;
+  font-weight: 500 !important;
+  color: #786e67 !important;
+  letter-spacing: 0.01em;
+}
+
+body.home-page .product-card .card-actions .btn-order-home {
+  font-family: var(--sans) !important;
+  font-weight: 600 !important;
+  font-size: 0.81rem !important;
+  letter-spacing: 0.01em !important;
+  border-radius: 8px !important;
+  border: 1px solid #d8c8b8 !important;
+  background: #ffffff !important;
+  color: #251e1b !important;
+  box-shadow: 0 1px 2px rgba(37, 30, 27, 0.04) !important;
+}
+
+body.home-page .product-card .card-actions .btn-order-home:hover {
+  background: var(--accent) !important;
+  color: #ffffff !important;
+  border-color: var(--accent) !important;
+}
+
+body.home-page .explore-all-wrap {
+  margin: 28px auto 12px !important;
+  padding: 8px 22px 36px !important;
+}
+
+body.home-page .explore-all-btn {
+  font-family: var(--sans) !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.01em !important;
+  padding: 13px 28px !important;
+  border-radius: 999px !important;
+  border: 1.5px solid var(--accent, #8f2431) !important;
+  background: #ffffff !important;
+  color: var(--accent, #8f2431) !important;
+  box-shadow: 0 4px 14px rgba(143, 36, 49, 0.08) !important;
+  cursor: pointer;
+  transition: all 0.22s ease !important;
+}
+
+body.home-page .explore-all-btn:hover {
+  background: var(--accent, #8f2431) !important;
+  color: #ffffff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(143, 36, 49, 0.18) !important;
+}
+
+@media (max-width: 760px) {
+  body.home-page .product-card .info h3 {
+    font-size: 0.88rem !important;
+  }
+  body.home-page .product-card .price-pill {
+    font-size: 0.85rem;
+    padding: 3.5px 8.5px;
+  }
+  body.home-page .product-card .small-muted {
+    font-size: 0.7rem !important;
+  }
+}
+
+/* === Smooth Animated Retractable 6-Language Selector & Multilingual Pills === */
+.lang-switcher-wrap {
+  margin: 0 auto 28px;
+  max-width: 980px;
+}
+.lang-switcher-drawer {
+  border: 1.5px solid #dfcbbb;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #fffdf9 0%, #f9f1e7 100%);
+  box-shadow: 0 8px 24px rgba(43, 27, 18, 0.06);
+  overflow: hidden;
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+.lang-switcher-drawer[open] {
+  border-color: var(--accent, #8f2431);
+  box-shadow: 0 12px 32px rgba(143, 36, 49, 0.12);
+}
+.lang-switcher-trigger {
+  list-style: none;
+  cursor: pointer;
+  padding: 14px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-family: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
+  font-size: 0.92rem;
+  color: #251e1b;
+  user-select: none;
+}
+.lang-switcher-trigger::-webkit-details-marker {
+  display: none;
+}
+.lang-trigger-left {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.lang-current-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: var(--accent, #8f2431);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.82rem;
+}
+.lang-trigger-Right {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent, #8f2431);
+}
+.lang-chevron {
+  display: inline-block;
+  transition: transform 0.3s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.lang-switcher-drawer[open] .lang-chevron {
+  transform: rotate(180deg);
+}
+.lang-switcher-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding: 4px 20px 20px;
+  border-top: 1px solid #eadccf;
+  animation: blogFade 0.32s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.lang-switch-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 14px;
+  border-radius: 12px;
+  border: 1px solid #e2d3c4;
+  background: #ffffff;
+  color: #251e1b !important;
+  text-decoration: none !important;
+  font-family: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  transition: transform 0.22s ease, border-color 0.22s ease, background 0.22s ease, box-shadow 0.22s ease;
+}
+.lang-switch-option:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent, #8f2431);
+  background: #fff9f4;
+  box-shadow: 0 6px 16px rgba(143, 36, 49, 0.09);
+}
+.lang-switch-option.is-active {
+  border-color: var(--accent, #8f2431);
+  background: #f8ebe8;
+  color: var(--accent, #8f2431) !important;
+  font-weight: 700;
+}
+.lang-check {
+  margin-left: auto;
+  color: var(--accent, #8f2431);
+  font-weight: 800;
+}
+.lang-pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+.lang-pill-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 15px;
+  border-radius: 999px;
+  border: 1px solid #decab8;
+  background: #fffaf3;
+  color: #7c1d28 !important;
+  font-family: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
+  font-size: 0.84rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: all 0.22s ease;
+}
+.lang-pill-link:hover {
+  background: var(--accent, #8f2431);
+  color: #ffffff !important;
+  border-color: var(--accent, #8f2431);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(143, 36, 49, 0.16);
+}
+.home-lang-guide-card {
+  margin: 26px 0 32px;
+  padding: 24px 26px;
+  border-radius: 18px;
+  border: 1px solid #e5d5c5;
+  background: linear-gradient(135deg, #fffdf9 0%, #f7ede1 100%);
+  box-shadow: 0 10px 28px rgba(43, 27, 18, 0.05);
+}
+.home-lang-guide-Card h3,
+.home-lang-guide-head h3 {
+  margin: 6px 0 8px;
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+  color: #251e1b;
+}
+.home-lang-guide-head p {
+  margin: 0;
+  color: #6f6660;
+  font-size: 0.92rem;
+}
+@media (max-width: 760px) {
+  .lang-switcher-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 8px 14px 14px;
+  }
+  .lang-switcher-trigger {
+    padding: 12px 14px;
+    font-size: 0.85rem;
+  }
+  .home-lang-guide-card {
+    padding: 18px 16px;
+  }
+}
+@media (max-width: 480px) {
+  .lang-switcher-grid {
+    grid-template-columns: 1fr;
+  }
+}

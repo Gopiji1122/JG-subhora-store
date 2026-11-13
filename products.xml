@@ -3,48 +3,11 @@
   <channel>
     <title>JG Subhora Store</title>
     <link>https://subhora.in</link>
-    <description>Handcrafted Decorative Pooja Thali, Wedding Kalash and Karwa Chauth Sets in India</description>
-    
+    <description>Handcrafted Decorative Pooja Thali, Wedding Mangal Kalash, Karwa Chauth Sets &amp; Festive Essentials in India</description>
     <item>
-      <g:id>karwachauth-thali-set</g:id>
-      <g:title>Designer Karwa Chauth Thali Set with Lota and Chhalni</g:title>
-      <g:description>Complete 6-piece handcrafted Karwa Chauth pooja thali set including 12-inch decorated thali, matching lota, chhalni, diya and 2 katoris. Stainless steel with red stone and mirror work.</g:description>
-      <g:link>https://subhora.in/products/karwachauth-thali-set/</g:link>
-      <g:image_link>https://subhora.in/assets/images/products/karwachauth-special/karwachauth-special-main.webp</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1800.00 INR</g:price>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:service>Speed Post</g:service>
-        <g:price>100.00 INR</g:price>
-      </g:shipping>
-      <g:brand>JG Subhora Store</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-
-    <item>
-      <g:id>karwachauth-couple-photo-thali-set</g:id>
-      <g:title>Customized Couple Photo Karwa Chauth Thali Set</g:title>
-      <g:description>Personalized Karwa Chauth thali set customized with couple photo and resin protection coating. Includes matching chhalni, lota, diya and katoris.</g:description>
-      <g:link>https://subhora.in/products/karwachauth-couple-photo-thali-set/</g:link>
-      <g:image_link>https://subhora.in/assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1800.00 INR</g:price>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:service>Speed Post</g:service>
-        <g:price>100.00 INR</g:price>
-      </g:shipping>
-      <g:brand>JG Subhora Store</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-
-    <item>
-      <g:id>decorative-pooja-thali</g:id>
-      <g:title>12-Inch Handcrafted Decorative Pooja Thali (Stainless Steel)</g:title>
-      <g:description>Handcrafted 12-inch stainless steel decorative pooja thali featuring red stone and reflective mirror work. Perfect for home temple daily aarti, Diwali, and festivals.</g:description>
+      <g:id>product-01</g:id>
+      <g:title>12-Inch Kundan &amp; Mirror Decorative Pooja Thali (Steel Aarti Plate)</g:title>
+      <g:description>Buy handcrafted 12-inch Kundan and mirror work decorative pooja thali online in India. Heavy-duty red stainless steel aarti thali plate for Diwali, Karwa Chauth &amp; wedding rituals (पूजा की थाली).</g:description>
       <g:link>https://subhora.in/products/decorative-pooja-thali/</g:link>
       <g:image_link>https://subhora.in/assets/images/products/thali/thali-set-1-lifestyle.webp</g:image_link>
       <g:condition>new</g:condition>
@@ -58,65 +21,10 @@
       <g:brand>JG Subhora Store</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
-
     <item>
-      <g:id>decorated-kalash-for-wedding</g:id>
-      <g:title>Large Decorated Kalash for Wedding and Mandap Ceremony</g:title>
-      <g:description>Large handcrafted decorative wedding kalash lota with red mirror work, pearl accents, and stones. Designed for wedding mandap, vivah rituals and griha pravesh.</g:description>
-      <g:link>https://subhora.in/products/decorated-kalash-for-wedding/</g:link>
-      <g:image_link>https://subhora.in/assets/images/products/big-kalash/big-kalash-lifestyle.webp</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1500.00 INR</g:price>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:service>Speed Post</g:service>
-        <g:price>100.00 INR</g:price>
-      </g:shipping>
-      <g:brand>JG Subhora Store</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-
-    <item>
-      <g:id>decorative-thali-set-for-wedding</g:id>
-      <g:title>Decorative Wedding Pooja Thali Combo Set with Kalash</g:title>
-      <g:description>Full 5-piece wedding pooja thali set including 12-inch decorated thali, matching kalash, 2 katoris and diya. Ideal for Sagan, Haldi, Mehendi and bridal rituals.</g:description>
-      <g:link>https://subhora.in/products/decorative-thali-set-for-wedding/</g:link>
-      <g:image_link>https://subhora.in/assets/images/products/wedding-combo-1/wedding-combo-1-main.webp</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1500.00 INR</g:price>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:service>Speed Post</g:service>
-        <g:price>100.00 INR</g:price>
-      </g:shipping>
-      <g:brand>JG Subhora Store</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-
-    <item>
-      <g:id>decorated-kalash-for-puja</g:id>
-      <g:title>Small Decorated Kalash for Puja and Griha Pravesh</g:title>
-      <g:description>Small decorated stainless steel pooja kalash lota with pearls, green stones and mirror embellishments. For daily home mandir aarti and festival ghatasthapana.</g:description>
-      <g:link>https://subhora.in/products/decorated-kalash-for-puja/</g:link>
-      <g:image_link>https://subhora.in/assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>200.00 INR</g:price>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:service>Speed Post</g:service>
-        <g:price>100.00 INR</g:price>
-      </g:shipping>
-      <g:brand>JG Subhora Store</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-
-    <item>
-      <g:id>decorative-katori-2-pieces</g:id>
-      <g:title>Red Stainless Steel Decorative Katori Set (Pair)</g:title>
-      <g:description>Pair of red stainless steel decorative katoris with stone and pearl borders. Ideal for holding roli, chawal, and haldi on any pooja thali.</g:description>
+      <g:id>product-02</g:id>
+      <g:title>Red Kundan Decorative Roli Chawal &amp; Haldi Kumkum Katori (2 Pieces)</g:title>
+      <g:description>Hand-decorated red stainless steel roli chawal katori pair with Kundan stones and pearls. Ideal haldi kumkum bowls for pooja thalis, weddings &amp; return gifts at ₹100.</g:description>
       <g:link>https://subhora.in/products/decorative-katori-2-pieces/</g:link>
       <g:image_link>https://subhora.in/assets/images/products/karwachauth-special/karwachauth-special-katori-detail.webp</g:image_link>
       <g:condition>new</g:condition>
@@ -130,6 +38,413 @@
       <g:brand>JG Subhora Store</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
-
+    <item>
+      <g:id>product-03</g:id>
+      <g:title>Small Decorated Pooja Kalash Lota for Karwa Chauth &amp; Mandir</g:title>
+      <g:description>Hand-decorated red stainless steel small kalash lota with mirror, pearl and stone work for Karwa Chauth moon arghya, Diwali लक्ष्मी पूजा and Griha Pravesh rituals at ₹200.</g:description>
+      <g:link>https://subhora.in/products/decorated-kalash-for-puja/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/chhota-kalash-lota/chhota-kalash-lota-lifestyle.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>product-04</g:id>
+      <g:title>Large Decorated Wedding &amp; Griha Pravesh Mangal Kalash (Steel)</g:title>
+      <g:description>Shop large hand-decorated red stainless steel Mangal Kalash with mirror and pearl work for Indian weddings, mandap ceremonies, Navratri Ghatasthapana &amp; Griha Pravesh (मंगल कलश).</g:description>
+      <g:link>https://subhora.in/products/decorated-kalash-for-wedding/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/big-kalash/big-kalash-lifestyle.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>wedding-combo-1</g:id>
+      <g:title>Bridal Wedding Pooja Thali Combo Set with Kalash &amp; Katoris</g:title>
+      <g:description>Complete Rajasthani handcrafted wedding pooja thali combo set featuring a 12-inch Kundan red steel thali, decorated kalash lota, diya and 2 roli-chawal katoris for marriage &amp; tilak rituals.</g:description>
+      <g:link>https://subhora.in/products/decorative-thali-set-for-wedding/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/wedding-combo-1/wedding-combo-1-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>karwachauth-special</g:id>
+      <g:title>Karwa Chauth Pooja Thali Set with Lota, Chhalni, Diya &amp; Katoris</g:title>
+      <g:description>Complete handmade red stainless steel Karwa Chauth pooja thali set with Kundan mirror-work thali, karwa lota, chhalni sieve, diya and katoris. Order bridal sargi sets on WhatsApp (करवा चौथ थाली सेट).</g:description>
+      <g:link>https://subhora.in/products/karwachauth-thali-set/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/karwachauth-special/karwachauth-special-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1800.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>karwachauth-special-1</g:id>
+      <g:title>Customized Couple Photo Karwa Chauth Thali Set (Resin Coated)</g:title>
+      <g:description>Personalized couple photo Karwa Chauth thali set with waterproof resin coating, decorated red steel thali, karwa lota, chhalni, diya and katoris. Best first Karwa Chauth gift for wife.</g:description>
+      <g:link>https://subhora.in/products/karwachauth-couple-photo-thali-set/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/karwachauth-special-1/karwachauth-special-1-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1800.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>lotus-mirror-mandala-pooja-thali</g:id>
+      <g:title>Lotus Mirror Mandala Red Steel Pooja &amp; Aarti Thali</g:title>
+      <g:description>Handcrafted 12-inch Lotus Mirror Mandala red stainless steel pooja thali with Kundan stones and pearls for Diwali Laxmi Puja, Navratri aarti and festive gifting at ₹600.</g:description>
+      <g:link>https://subhora.in/products/lotus-mirror-mandala-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/lotus-mirror-mandala-pooja-thali/lotus-mirror-mandala-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>600.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>swastik-pearl-square-pooja-thali</g:id>
+      <g:title>Swastik &amp; Pearl Square Kundan Red Steel Pooja &amp; Tilak Thali</g:title>
+      <g:description>Auspicious Swastik and pearl square mandala red stainless steel pooja thali. Hand-decorated in Jodhpur for Bhai Dooj tilak, Raksha Bandhan, Ganesh Puja and wedding shagun at ₹600.</g:description>
+      <g:link>https://subhora.in/products/swastik-pearl-square-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/swastik-pearl-square-pooja-thali/swastik-pearl-square-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>600.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>royal-swastik-mirror-pooja-thali</g:id>
+      <g:title>Royal Swastik &amp; Mirror Border Red Steel Pooja Thali</g:title>
+      <g:description>Buy Royal Swastik &amp; Mirror Border 12-inch red stainless steel pooja thali online. Traditional Rajasthani Kundan and mirror-work aarti plate for daily mandir, Diwali &amp; Karwa Chauth at ₹600.</g:description>
+      <g:link>https://subhora.in/products/royal-swastik-mirror-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/royal-swastik-mirror-pooja-thali/royal-swastik-mirror-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>600.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>shubh-kalash-swastik-pooja-thali</g:id>
+      <g:title>Shubh Kalash &amp; Swastik Mandala Heavy Kundan Steel Pooja Thali</g:title>
+      <g:description>Heavy-work Shubh Kalash and Swastik mandala 12-inch red stainless steel pooja thali with 8 pearl-mirror arches. Ideal for Griha Pravesh, Satyanarayan Puja &amp; wedding rituals at ₹900.</g:description>
+      <g:link>https://subhora.in/products/shubh-kalash-swastik-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/shubh-kalash-swastik-pooja-thali/shubh-kalash-swastik-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>mangal-kalash-mirror-pooja-thali</g:id>
+      <g:title>Mangal Kalash Scallop Mirror &amp; Pearl Arch Steel Pooja Thali</g:title>
+      <g:description>Handcrafted Mangal Kalash scallop mirror 12-inch red stainless steel pooja thali with vertical mirror-tile rim. Made in Jodhpur for bridal welcome, Karwa Chauth &amp; Diwali puja at ₹900.</g:description>
+      <g:link>https://subhora.in/products/mangal-kalash-mirror-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/mangal-kalash-mirror-pooja-thali/mangal-kalash-mirror-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>golden-swastik-latkan-pooja-thali</g:id>
+      <g:title>Golden Swastik &amp; Star Latkan Kundan Steel Pooja Thali</g:title>
+      <g:description>Vibrant golden stainless steel pooja thali with red Kundan Swastik centerpiece, 8 mirror-pearl arches and colorful star latkan drops. Perfect for haldi, mehendi &amp; festive aarti at ₹900.</g:description>
+      <g:link>https://subhora.in/products/golden-swastik-latkan-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/golden-swastik-latkan-pooja-thali/golden-swastik-latkan-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>golden-swastik-leaf-latkan-pooja-thali</g:id>
+      <g:title>Golden Swastik Leaf &amp; Beaded Latkan Steel Pooja Thali</g:title>
+      <g:description>Hand-decorated golden stainless steel pooja thali featuring an embossed Swastik, green leaf motifs, pearl-mirror arches and colorful beaded latkan tassels for weddings &amp; festivals at ₹900.</g:description>
+      <g:link>https://subhora.in/products/golden-swastik-leaf-latkan-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/golden-swastik-leaf-latkan-pooja-thali/golden-swastik-leaf-latkan-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>crimson-swastik-latkan-pooja-thali</g:id>
+      <g:title>Crimson Red Swastik &amp; Star Latkan Kundan Steel Pooja Thali</g:title>
+      <g:description>Bridal crimson red stainless steel pooja thali with Kundan Swastik, 8 round mirror-pearl scallops and colorful star latkan border for Karwa Chauth, Teej &amp; marriage rituals at ₹900.</g:description>
+      <g:link>https://subhora.in/products/crimson-swastik-latkan-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/crimson-swastik-latkan-pooja-thali/crimson-swastik-latkan-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>grand-royal-blue-mirror-pooja-thali</g:id>
+      <g:title>Grand 44cm (1280g) Royal Blue &amp; Mirror Steel Wedding Thali</g:title>
+      <g:description>Extra-large 44 cm width, 6.5 cm deep, 1280g heavy-duty stainless steel wedding shagun and baina thali with royal blue, emerald green, pearl and mirror mandala work at ₹1,300.</g:description>
+      <g:link>https://subhora.in/products/grand-royal-blue-mirror-pooja-thali/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/grand-royal-blue-mirror-pooja-thali/grand-royal-blue-mirror-pooja-thali-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1300.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>pyramid-dhoop-daan-box</g:id>
+      <g:title>Pyramid Wooden Temple Dhoop Dani &amp; Incense Burner Box</g:title>
+      <g:description>Handcrafted pyramid temple wooden dhoop dani &amp; incense burner box with heat-safe center metal cup, Kundan stones, mirrors and smoke jali vents. Watch how-to-use video &amp; order at ₹600 (धूपदानी).</g:description>
+      <g:link>https://subhora.in/products/pyramid-dhoop-daan-box/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/pyramid-dhoop-daan-box/pyramid-dhoop-daan-box-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>600.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>kalash-design-thali-set</g:id>
+      <g:title>Kalash Design 6-Piece Heavy-Duty Steel Pooja &amp; Karwa Chauth Thali Set</g:title>
+      <g:description>Complete 6-piece heavy-duty stainless steel Kalash Design pooja &amp; Karwa Chauth thali set (1 thali, 2 katori, 1 star dipak, 1 chhalni, 1 kalash/lota) hand-decorated with Kundan, pearls &amp; mirrors at ₹1,600.</g:description>
+      <g:link>https://subhora.in/products/kalash-design-thali-set/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/kalash-design-thali-set/kalash-design-thali-set-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1600.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>star-latkan-steel-chhalni</g:id>
+      <g:title>Star Latkan Decorated Red Steel Karwa Chauth Chhalni (Sieve)</g:title>
+      <g:description>Buy hand-decorated red stainless steel Karwa Chauth chhalni (sieve) with diamond mirrors, wavy red-green stones, white pearls and colorful star latkan drops at ₹200 (करवा चौथ छलनी).</g:description>
+      <g:link>https://subhora.in/products/star-latkan-steel-chhalni/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/star-latkan-steel-chhalni/star-latkan-steel-chhalni-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>gold-pearl-latkan-steel-chhalni</g:id>
+      <g:title>Gold Pearl &amp; Gota Latkan Red Steel Karwa Chauth Chhalni (Sieve)</g:title>
+      <g:description>Bridal red stainless steel Karwa Chauth chhalni sieve featuring a full white pearl rim, leaf mirror petals, green Kundan stones, golden gota wave and gold bead latkan drops at ₹200.</g:description>
+      <g:link>https://subhora.in/products/gold-pearl-latkan-steel-chhalni/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/gold-pearl-latkan-steel-chhalni/gold-pearl-latkan-steel-chhalni-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>round-mirror-scalloped-steel-chhalni</g:id>
+      <g:title>Round Mirror Scalloped Arch Red Steel Karwa Chauth Chhalni</g:title>
+      <g:description>Traditional Rajasthani round mirror and pearl scalloped arch red stainless steel Karwa Chauth chhalni with a clean tangle-free rim and fine steel mesh at ₹200.</g:description>
+      <g:link>https://subhora.in/products/round-mirror-scalloped-steel-chhalni/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/round-mirror-scalloped-steel-chhalni/round-mirror-scalloped-steel-chhalni-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>star-steel-diya-dhoop-set</g:id>
+      <g:title>Star Steel Diya &amp; Dhoop Dani Holder Pooja Set (2 Pieces)</g:title>
+      <g:description>Heavy-duty 2-piece stainless steel pooja diya and perforated dhoop dani holder set with red, green and gold stone pedestal bases. Fits any pooja or aarti thali at ₹100 (पूजा दीपक और धूपदानी).</g:description>
+      <g:link>https://subhora.in/products/star-steel-diya-dhoop-set/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/star-steel-diya-dhoop-set/star-steel-diya-dhoop-set-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>floral-drop-mirror-big-kalash</g:id>
+      <g:title>Floral Drop Mirror Big Steel Mangal Kalash / Wedding Lota</g:title>
+      <g:description>Grand heavy-duty red stainless steel Big Mangal Kalash lota with triangular mirror collar, round mirror pearl arches and green-leaf AB drops for wedding mandap &amp; Griha Pravesh at ₹1,500.</g:description>
+      <g:link>https://subhora.in/products/floral-drop-mirror-big-kalash/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/floral-drop-mirror-big-kalash/floral-drop-mirror-big-kalash-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>green-rosette-mirror-big-kalash</g:id>
+      <g:title>Green Rosette Double-Arch Big Steel Mangal Kalash / Lota</g:title>
+      <g:description>Heavy-gauge red stainless steel Big Mangal Kalash featuring double-tier circular mirror arches, emerald-green stone rosettes and triangular mirror belt for weddings &amp; Navratri at ₹1,500.</g:description>
+      <g:link>https://subhora.in/products/green-rosette-mirror-big-kalash/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/green-rosette-mirror-big-kalash/green-rosette-mirror-big-kalash-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>decorated-steel-sindoor-dibbi-set</g:id>
+      <g:title>Hand-Decorated Steel Sindoor Box &amp; Haldi Kumkum Dibbi (2 Pieces)</g:title>
+      <g:description>Pair of heavy-duty stainless steel sindoor dibbi and haldi-kumkum karanda boxes with fitted mirror-and-kundan lids and clean bare steel interiors for bridal suhag &amp; pooja at ₹150 (सिंदूर डिब्बी / कुमकुम करंडा).</g:description>
+      <g:link>https://subhora.in/products/decorated-steel-sindoor-dibbi-set/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/decorated-steel-sindoor-dibbi-set/decorated-steel-sindoor-dibbi-set-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>wooden-miniature-aata-chakki-showpiece</g:id>
+      <g:title>Handcrafted Wooden Miniature Aata Chakki Showpiece (Small)</g:title>
+      <g:description>Authentic small handcrafted solid wood miniature of a traditional Rajasthani old-style aata chakki, decorated in crimson red with mirrors, pearls and stones for home &amp; wedding decor at ₹1,500.</g:description>
+      <g:link>https://subhora.in/products/wooden-miniature-aata-chakki-showpiece/</g:link>
+      <g:image_link>https://subhora.in/assets/images/products/wooden-miniature-aata-chakki-showpiece/wooden-miniature-aata-chakki-showpiece-main.webp</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1500.00 INR</g:price>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:service>Speed Post</g:service>
+        <g:price>100.00 INR</g:price>
+      </g:shipping>
+      <g:brand>JG Subhora Store</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
